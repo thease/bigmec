@@ -1,0 +1,8 @@
+{
+  "name": "lePop",
+  "authUrl": "unix:///var/run/docker.sock",
+  "tenant": "1.37",
+  "type": "docker",
+  "username": "admin",
+  "password": "openbaton"
+}
