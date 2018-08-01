@@ -1,0 +1,16 @@
+version: '3'
+services:
+    mea:
+        container_name: mec_mea
+        build: .
+        image: mec/mea
+        environment:
+            - someHost=192.168.178.31
+            - somePort=12345
+        tty: true
+        stdin_open: true
+        networks:
+            - edge-network
+networks:
+    edge-network:
+        driver: bridge
