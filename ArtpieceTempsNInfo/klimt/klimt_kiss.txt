@@ -1,0 +1,4 @@
+piece: "Der Kuss"(1907-1908)
+artist: Klimt, Gustav
+aera: Art Nouveau (Modern) - Golden phase
+genre: genre painting

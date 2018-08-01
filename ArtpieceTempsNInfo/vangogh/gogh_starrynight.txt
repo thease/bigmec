@@ -1,0 +1,4 @@
+piece: "De sterrennacht" (1889)
+artist: van Gogh, Vincent
+aera: Post-Impressionism
+genre: cloudscape

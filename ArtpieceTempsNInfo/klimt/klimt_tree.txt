@@ -1,0 +1,4 @@
+piece: "Lebensbaum"(1909)
+artist: Klimt, Gustav
+aera: Art Nouveau (Modern) - Late works
+genre: symbolic painting

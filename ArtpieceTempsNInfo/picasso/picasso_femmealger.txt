@@ -1,0 +1,4 @@
+piece: "Les femmes d'Alger (Delacroix)" (1955)
+artist: Picasso, Pablo
+aera: Cubism - Later Years
+genre: genre painting

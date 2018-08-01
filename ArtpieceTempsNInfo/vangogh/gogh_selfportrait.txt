@@ -1,0 +1,4 @@
+piece: "Self-Portrait" (1889)
+artist: van Gogh, Vincent
+aera: Post-Impressionism
+genre: self-portrait

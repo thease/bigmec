@@ -1,0 +1,4 @@
+piece: "Guernica" (1937)
+artist: Picasso, Pablo
+aera: Cubism, Surrealism - Neoclassicist & Surrealist Period
+genre: allegorical painting

@@ -1,0 +1,4 @@
+piece: "Femme au béret et à la robe à carreaux" (1937)
+artist: Picasso, Pablo 
+aera: Surrealism - Neoclassicist & Surrealist Period
+genre: portrait

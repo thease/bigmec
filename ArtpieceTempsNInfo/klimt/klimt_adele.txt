@@ -1,0 +1,4 @@
+piece: "Adele Bloch-Bauer I" (1907)
+artist: Klimt, Gustav
+aera: Art Nouveau (Modern) - Golden phase
+genre: portrait

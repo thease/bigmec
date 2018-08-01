@@ -1,0 +1,4 @@
+piece: "Still Life - Vase with Fifteen Sunflowers" (1888)
+artist: van Gogh, Vincent
+aera: Post-Impressionism
+genre: flower painting

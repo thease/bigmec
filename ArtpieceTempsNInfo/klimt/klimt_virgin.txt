@@ -1,0 +1,4 @@
+piece: "Die Jungfrau" (1913)
+artist: Klimt, Gustav
+aera: Art Nouveau (Modern) - Late works
+genre: symbolic painting
